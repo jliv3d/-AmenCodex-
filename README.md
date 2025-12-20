@@ -1,3 +1,6 @@
+![Hyper Cold Fusion](https://img.shields.io/badge/Energy-Infinite-brightgreen) 
+![Safety-Zero%20Risk-blue]
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Hyper-Cold Vacuum Fusion Reactor
